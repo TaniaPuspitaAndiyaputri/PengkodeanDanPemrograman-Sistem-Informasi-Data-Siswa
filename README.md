@@ -4,6 +4,9 @@ NAMA: TANIA PUSPITA ANDIYAPUTRI
 
 NIM: 12030122120044
 
+Username: admin
+
+Password: admin
 REFERENSI: https://github.com/farhanadeata/WebCRUD
 
 # Perbedaan Tampilan Sistem Asli dan Sistem Baru
@@ -34,3 +37,5 @@ Tampilan data siswa dan foto
 ![Screenshot (37)](https://github.com/TaniaPuspitaAndiyaputri/PengkodeanDanPemrograman-Sistem-Informasi-Data-Siswa/assets/152761686/f46b71b1-c45e-4346-802a-ebba783a4d5a)
 
 # ERD dari Sistem Informasi Data Siswa
+
+![Screenshot (33)](https://github.com/TaniaPuspitaAndiyaputri/PengkodeanDanPemrograman-Sistem-Informasi-Data-Siswa/assets/152761686/ff5a4c22-a5d0-4086-9341-bd9e39511522)
